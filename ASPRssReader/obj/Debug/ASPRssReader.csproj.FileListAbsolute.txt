@@ -1,0 +1,60 @@
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\ASPRssReader.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\ASPRssReader.pdb
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\Antlr3.Runtime.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.Core.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\EntityFramework.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\System.Web.Optimization.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\System.Web.Providers.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\WebGrease.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\EntityFramework.xml
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.Core.xml
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\obj\Debug\ASPRssReader.csprojResolveAssemblyReference.cache
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\obj\Debug\ASPRssReader.dll
+C:\Users\Tharaka\documents\visual studio 2012\Projects\ASPRssReader\ASPRssReader\obj\Debug\ASPRssReader.pdb
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\ASPRssReader.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\ASPRssReader.pdb
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\Antlr3.Runtime.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\AspNet.ScriptManager.jQuery.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.AspNet.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.Core.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OAuth.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OpenId.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\EntityFramework.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\Microsoft.Web.Infrastructure.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\System.Web.Optimization.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\System.Web.Providers.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\WebGrease.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\EntityFramework.xml
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.Core.xml
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OAuth.xml
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OpenId.xml
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\ASPRssReader\ASPRssReader\ASPRssReader\bin\DotNetOpenAuth.AspNet.xml
+E:\ASPRssReader\ASPRssReader\ASPRssReader\obj\Debug\ASPRssReader.csprojResolveAssemblyReference.cache
+E:\ASPRssReader\ASPRssReader\ASPRssReader\obj\Debug\ASPRssReader.dll
+E:\ASPRssReader\ASPRssReader\ASPRssReader\obj\Debug\ASPRssReader.pdb
